@@ -9,7 +9,7 @@
 
 class Node:
 
-    def __init__(self,val):                                 #asign head value using constructor method
+    def __init__(self,val):                                 #assign head value using constructor method
         self.value = val
         self.left = None 
         self.right = None
